@@ -6,3 +6,4 @@ This is fifth change
 This is sixth change
 This is seventh change
 remote change
+local change
